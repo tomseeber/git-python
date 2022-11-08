@@ -1,0 +1,46 @@
+    # Mac generated files #
+    ######################
+    .DS_Store
+    .DS_Store?
+    .AppleDouble
+    .LSOverride
+    .AppleDB
+    .AppleDesktop
+    Network Trash Folder
+    Temporary Items
+    .apdisk
+
+    # Windows generated files #
+    ######################
+    Thumbs.db
+    Thumbs.db:encryptable
+    ehthumbs.db
+    ehthumbs_vista.db
+    $RECYCLE.BIN/
+
+    # Sensitive Information #
+    ######################
+    config.py
+
+    # Jupyter Notebook
+    ######################
+    .ipynb_checkpoints
+
+    # Python Environment Files#
+    ######################
+    .env
+    .venv
+    env/
+    venv/
+    ENV/
+    env.bak/
+    venv.bak/
+
+    #  Individual Directory #
+    ######################
+    ./Data
+    Data
+
+    #  Individual File #
+    ######################
+    file.tmp
